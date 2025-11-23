@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Weather App - App Clima
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive weather application built with React and TypeScript that displays current weather conditions, forecasts, and air quality information for multiple cities in Mexico.
 
 ## 🌐 Live Demo
 
 The app is deployed on GitHub Pages: [https://rafaello129.github.io/clima](https://rafaello129.github.io/clima)
+
+## 📖 Documentation
+
+**For Backend Development Team**: See [ESTRUCTURA_PROYECTO.md](./ESTRUCTURA_PROYECTO.md) for comprehensive documentation of the frontend architecture (in Spanish). This document includes:
+- Complete project structure
+- API integration details
+- TypeScript interfaces and data types
+- Data flow diagrams
+- Suggested backend API endpoints
+- Authentication flow recommendations
+
+## 🚀 Quick Start
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
