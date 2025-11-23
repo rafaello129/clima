@@ -980,4 +980,4 @@ Si el equipo de backend necesita clarificaciones, estos son los archivos clave:
 
 **Última actualización**: 2025-11-23
 **Versión del proyecto**: 0.1.0
-**Autor de la documentación**: GitHub Copilot Agent
+**Documentación preparada para**: Equipo de Backend / IA de Desarrollo
